@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BusinessLogicLayer/bin/Debug/net8.0
+/CoreLayer/bin/Debug/net8.0
+/MVCLayer/bin/Debug/net8.0
+/CoreLayer/obj
+/BusinessLogicLayer/obj
+/MVCLayer/obj
